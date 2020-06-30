@@ -6,7 +6,6 @@ import { camera, trash, close } from 'ionicons/icons';
 import ExploreContainer from '../components/ExploreContainer';
 import './Tab2.css';
 
-
 const Tab2: React.FC = () => {
   return (
     <IonPage>
