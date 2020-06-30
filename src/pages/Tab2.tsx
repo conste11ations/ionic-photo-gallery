@@ -1,14 +1,18 @@
 import React from 'react';
-import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar } from '@ionic/react';
+import { IonContent, IonHeader, IonPage, IonTitle, IonToolbar,
+  IonFab, IonFabButton, IonIcon, IonGrid, IonRow,
+  IonCol, IonImg, IonActionSheet } from '@ionic/react';
+import { camera, trash, close } from 'ionicons/icons';
 import ExploreContainer from '../components/ExploreContainer';
 import './Tab2.css';
+
 
 const Tab2: React.FC = () => {
   return (
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Tab 2</IonTitle>
+          <IonTitle>Ionic Photo Gallery</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent>
