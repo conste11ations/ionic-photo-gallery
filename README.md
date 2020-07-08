@@ -1,6 +1,6 @@
 # ionic-photo-gallery
-Photo Gallery react app built in Ionic.
-Based off of this [tutorial guide](https://ionicframework.com/docs/react/your-first-app)
+Photo Gallery react app built in Ionic, based off of this [tutorial guide](https://ionicframework.com/docs/react/your-first-app).
+
 Powered by [Ionic React](https://ionicframework.com/docs/react) (web app) and [Capacitor](https://capacitor.ionicframework.com/) (native app runtime).
 
 ### How It Works
